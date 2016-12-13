@@ -1,0 +1,200 @@
+.center {
+        margin: auto;
+        text-align: center;
+
+}
+
+.nav{
+	display: inline-block;
+         float: center;
+         position: relative;
+	text-align: center;
+	width: 100%;
+
+}
+
+.nav ul {
+	background-color: #333;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+
+}
+
+.nav li {
+
+	display: inline-block;
+}
+
+.nav li a {
+	color: white;
+	display: block;
+	padding: 14px 16px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.nav li a:hover {
+	background-color: #111;
+}
+/* Corp */
+body{    
+         background-color: #B9C1C0;
+	float : center;
+	font-family: sans-serif;
+	font-weight: 100;
+	position: relative;
+	margin: 0;
+	margin-bottom : 50px;
+	padding: 0;
+	text-align: center;
+
+}
+	
+
+
+/* Titres */
+h1{
+	color: #A481D2;
+	font-size: 60px;
+	font-weight: 100px;
+
+	
+
+}
+
+}
+h2{
+	color: blue;
+	clear: both;
+	font-size: 40px;
+	font-weight: 100;
+
+}
+
+#experiencepro {
+         border-width: 100px;
+         }
+
+
+/*Intro*/
+
+.intro{
+	display: inline-block;
+	margin: auto;
+}
+
+#photoprofil {
+
+	height: auto;
+	display: inline-block;
+	width: auto;
+	
+
+}
+  .main {
+               
+                 float: left;
+                 width : 250px;
+                 height: 200px;
+                 margin : 2em;
+                 padding: 4em;
+                 border: 1px solid black;
+}
+
+            .bloc_2 { background: rgba(255, 0, 0, 0.5); }
+           
+#photofar {
+
+         border-radius: 50%;
+	height: 200px;
+	padding-bottom: 50px;
+	padding-right:70px;
+	width: 200px;
+	
+}
+
+.logo a img{
+	display: inline-block;
+	padding : 10px;
+         width: 60px;
+}
+
+/*Expériencepro*/
+
+.experiencepro {
+        margin-top: 35px;
+        padding-left: 25px;
+
+}
+
+.titre { 
+        background-color: #85AA55;
+     
+}
+
+.place {
+        color: #8E3557:
+        display: inline-block;
+        font-weight: 500:
+        font-size: 17px;
+        
+        
+        
+        
+
+}
+
+.duree {
+
+}
+{
+.fond {
+       color:black;
+       background-color:white;
+       background-image:url(/home/farid/Images/Beginner.png);
+       margin:0;
+}
+#what {
+       color; green;
+}
+/*Formation*/
+
+.formation {
+	margin-top: 30px;
+	padding-left:30px;
+	box-shadow: 6px 6px 0px black;
+
+}
+
+.annee {
+	color: #8E3557;
+	display: inline-block;	
+	font-weight: 500;
+	font-size: 17px;
+	text-align: right;
+	width: 150px;
+
+}
+
+.diplome {
+	display: inline-block;
+}
+
+.lieu{
+         color: gray;
+	font-size: 12px;
+	font-style : italic;
+
+}
+
+.titre {
+         
+         color:   background-color: teal;
+
+
+}
+             
+            
+
